@@ -25,7 +25,8 @@
 <img align="center" alt="peter-Electron" height="40" width="50" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" />
 <img align="center" alt="peter-Electron" height="40" width="50" src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor" />
 <img align="center" alt="peter-Electron" height="40" width="50" src="https://icongr.am/devicon/vuejs-original-wordmark.svg?size=128&color=currentColor" />
-<img align="center" alt="peter-Electron" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+<img align="center" alt="peter-Electron" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+
 
 ##
 <br>
