@@ -22,6 +22,10 @@
 <img align="center" alt="peter-MongoDB" height="40" width="50" src="https://icongr.am/devicon/mongodb-original.svg?size=148&color=f46e01" />
 <img align="center" alt="peter-React.JS" height="40" width="50" src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=6017ba" />
 <img align="center" alt="peter-Electron" height="40" width="50" src="https://icongr.am/devicon/electron-original.svg?size=148&color=f46e01" />
+<img align="center" alt="peter-Electron" height="40" width="50" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" />
+<img align="center" alt="peter-Electron" height="40" width="50" src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor" />
+<img align="center" alt="peter-Electron" height="40" width="50" src="https://icongr.am/devicon/vuejs-original-wordmark.svg?size=128&color=currentColor" />
+<img align="center" alt="peter-Electron" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 
 ##
 <br>
