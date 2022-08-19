@@ -1,8 +1,8 @@
 	## Olá eu sou Peterson da Silva Caetano 
 
 
-- 🧑‍💼 Hoje trabalho com vendas
-- 👨‍💻 Estudando Html5, CSS3, JAVASCRIPT,  Firebase,  jQuery, Bootstrap, Node.js, MongoDB,  React.JS,  Electron
+- 🧑‍💼 Hoje trabalho com
+- 👨‍ React.JS, React Native, flutter, Jest-JS, JAVASCRIPT,  Firebase,  jQuery, Bootstrap, Node.js, MongoDB,  Electron
 
 <div>
 <a href="https://beacons.ai/peterson1dhon">
